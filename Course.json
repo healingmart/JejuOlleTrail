@@ -1442,32 +1442,7 @@
     "color": "#FF69B4",
     "path": []
   },
-{
 
-    "courseNum": 22,
-    "courseName": "힐링K가 제작한 올레 데이터",
-    "start": {
-      "name": "HealingK 출처",
-      "lat": 0,
-      "lng": 0
-    },
-    "middle": {
-      "name": "https://healingk.com",
-      "lat": 0,
-      "lng": 0
-    },
-    "end": {
-      "name": "© HealingK",
-      "lat": 0,
-      "lng": 0
-    },
-    "color": "#CCCCCC",
-    "path": [],
-    "createdBy": {
-      "name": "HealingK",
-      "website": "https://healingk.com"FF69B4",
-    "path": []
-  }
 ]
 
 
