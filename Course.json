@@ -1421,7 +1421,7 @@
     "color": "#EE82EE",
     "path": []
   },
-  {
+{
     "courseNum": 21,
     "courseName": "하도 ~ 종달 올레",
     "start": {
@@ -1441,9 +1441,21 @@
     },
     "color": "#FF69B4",
     "path": []
+  },
+  {
+    "courseNum": 22,
+    "courseName": "출처 정보",
+    "start": null,
+    "middle": null,
+    "end": null,
+    "color": null,
+    "path": [],
+    "createdBy": {
+      "name": "힐링K",
+      "website": "https://healingk.com"
+    }
   }
 ]
-
 
 
 
