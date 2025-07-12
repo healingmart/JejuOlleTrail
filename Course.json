@@ -715,7 +715,7 @@
 
 
 {
-  "courseNum": 2,
+  "courseNum": "2",
   "courseName": "광치기해변 ~ 온평 올레",
   "start": {
     "name": "광치기해변",
@@ -838,7 +838,7 @@
 
   
 {
-  "courseNum": 3-A,
+  "courseNum": "3-A",
   "courseName": "온평 ~ 표선(A) 올레",
   "start": {
     "name": "온평포구",
@@ -974,7 +974,7 @@
 
 
 {
-  "courseNum": 3-B,
+  "courseNum": "3-B",
   "courseName": "온평 ~ 표선(B) 올레",
   "start": {
     "name": "온평포구",
@@ -999,7 +999,7 @@
   
   
   {
-    "courseNum": 4,
+    "courseNum": "4",
     "courseName": "표선 ~ 남원 올레",
     "start": {
       "name": "제주민속촌주차장 입구",
@@ -1041,7 +1041,7 @@
     "path": []
   },
   {
-    "courseNum": 6,
+    "courseNum": "6",
     "courseName": "쇠소깍 ~ 제주올레여행자센터 올레",
     "start": {
       "name": "쇠소깍다리",
@@ -1160,7 +1160,7 @@
     "path": []
   },
   {
-    "courseNum": 8,
+    "courseNum": "8",
     "courseName": "월평 ~ 대평 올레",
     "start": {
       "name": "월평아왜낭목",
@@ -1287,7 +1287,7 @@
       [33.236766, 126.360984]]
   },
   {
-    "courseNum": 9,
+    "courseNum": "9",
     "courseName": "대평 ~ 화순 올레",
     "start": {
       "name": "대평포구",
@@ -1308,7 +1308,7 @@
     "path": []
   },
   {
-    "courseNum": 10,
+    "courseNum": "10",
     "courseName": "화순 ~ 모슬포 올레",
     "start": {
       "name": "제주올레공식안내소",
@@ -1350,7 +1350,7 @@
     "path": []
   },
   {
-    "courseNum": 11,
+    "courseNum": "11",
     "courseName": "모슬포 ~ 무릉 올레",
     "start": {
       "name": "하모체육공원",
@@ -1371,7 +1371,7 @@
     "path": []
   },
   {
-    "courseNum": 12,
+    "courseNum": "12",
     "courseName": "무릉 ~ 용수 올레",
     "start": {
       "name": "무릉외갓집",
@@ -1392,7 +1392,7 @@
     "path": []
   },
   {
-    "courseNum": 13,
+    "courseNum": "13",
     "courseName": "용수 ~ 저지 올레",
     "start": {
       "name": "용수포구",
@@ -1413,7 +1413,7 @@
     "path": []
   },
   {
-    "courseNum": 14,
+    "courseNum": "14",
     "courseName": "저지 ~ 한림 올레",
     "start": {
       "name": "저지예술정보화마을",
@@ -1497,7 +1497,7 @@
     "path": []
   },
   {
-    "courseNum": 16,
+    "courseNum": "16",
     "courseName": "고내 ~ 광령 올레",
     "start": {
       "name": "고내포구",
@@ -1518,7 +1518,7 @@
     "path": []
   },
   {
-    "courseNum": 17,
+    "courseNum": "17",
     "courseName": "광령 ~ 김만덕기념관 올레",
     "start": {
       "name": "당동산",
@@ -1539,7 +1539,7 @@
     "path": []
   },
   {
-    "courseNum": 18,
+    "courseNum": "18",
     "courseName": "김만덕 ~ 조천 올레",
     "start": {
       "name": "김만덕기념관",
@@ -1602,7 +1602,7 @@
     "path": []
   },
   {
-    "courseNum": 19,
+    "courseNum": "19",
     "courseName": "조천 ~ 김녕 올레",
     "start": {
       "name": "조천만세동산",
@@ -1623,7 +1623,7 @@
     "path": []
   },
   {
-    "courseNum": 20,
+    "courseNum": "20",
     "courseName": "김녕 ~ 하도 올레",
     "start": {
       "name": "김녕서포구",
@@ -1644,7 +1644,7 @@
     "path": []
   },
 {
-    "courseNum": 21,
+    "courseNum": "21",
     "courseName": "하도 ~ 종달 올레",
     "start": {
       "name": "제주해녀박물관",
