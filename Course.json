@@ -976,11 +976,11 @@
 
 {
   "courseNum": "3-B",
-  "courseName": "온평 ~ 표선(B) 올레",
+  "courseName": "온평 ~ 표선(A) 올레",
   "start": {
     "name": "온평포구",
-    "lat": 33.40508,
-    "lng": 126.90399
+    "lat": 33.40513,
+    "lng": 126.90407
   },
   "middle": {
     "name": "신천리",
