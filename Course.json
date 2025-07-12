@@ -838,7 +838,7 @@
 
   
 {
-  "courseNum": "3-A",
+  "courseNum": 3-A,
   "courseName": "온평 ~ 표선(A) 올레",
   "start": {
     "name": "온평포구",
@@ -974,7 +974,7 @@
 
 
 {
-  "courseNum": "3-B",
+  "courseNum": 3-B,
   "courseName": "온평 ~ 표선(B) 올레",
   "start": {
     "name": "온평포구",
