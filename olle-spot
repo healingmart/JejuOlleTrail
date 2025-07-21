@@ -1,0 +1,1639 @@
+{
+  "lastUpdated": "2025-07-21",
+  "version": "2.1",
+  "courses": {
+    "7": {
+      "courseNum": "7",
+      "courseName": "제주올레여행자센터-서귀포터미널 올레",
+      "distance": "12.9km",
+      "difficulty": "중",
+      "time": "3~4시간",
+      "description": "서귀포 서쪽 해안의 절경을 감상하는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "7_SE_001",
+            "name": "제주올레여행자센터",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2475, "lng": 126.5588 },
+            "address": "서귀포시 중정로 22",
+            "vimeoId": "123456789",
+            "vimeoIds": ["123456789", "234567890", "345678901"],
+            "images": [
+              "https://i.imgur.com/wsZdSbZ.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "09:00-18:00",
+              "tel": "064-762-2190",
+              "description": "7코스 시작점. 올레 패스포트와 기념품을 구매할 수 있습니다."
+            }
+          },
+          {
+            "id": "7_SE_002",
+            "name": "두머니골 공원",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2310, "lng": 126.5072 },
+            "address": "서귀포시 법환동 1534",
+            "vimeoId": "456789012",
+            "vimeoIds": ["456789012", "567890123", "678901234"],
+            "images": [
+              "https://i.imgur.com/Ej63QYK.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "중간 휴식 지점"
+            }
+          },
+          {
+            "id": "7_SE_003",
+            "name": "서귀포버스터미널",
+            "type": "종점",
+            "coordinates": { "lat": 33.2491, "lng": 126.5082 },
+            "address": "제주 서귀포시 법환동 843",
+            "vimeoId": "789012345",
+            "vimeoIds": ["789012345", "890123456", "901234567"],
+            "images": [
+              "https://i.imgur.com/wsZdSbZ.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "7코스 종점"
+            }
+          }
+        ],
+        "landmarks": [
+          {
+            "id": "7_L_001",
+            "name": "외돌개",
+            "coordinates": { "lat": 33.238521, "lng": 126.543245 },
+            "address": "제주 서귀포시 서홍동 791",
+            "vimeoId": "1094240969",
+            "vimeoIds": ["111111111", "222222222", "333333333"],
+            "images": [
+              "https://i.imgur.com/kW0O1jY.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "24시간",
+              "parking": "무료",
+              "description": "높이 20m의 기암괴석. 드라마 대장금 촬영지로 유명합니다."
+            }
+          },
+          {
+            "id": "7_L_002",
+            "name": "법환포구",
+            "coordinates": { "lat": 33.232778, "lng": 126.512222 },
+            "address": "제주 서귀포시 막숙포로 44",
+            "vimeoId": "444444444",
+            "vimeoIds": ["444444444", "555555555", "666666666"],
+            "images": [
+              "https://i.imgur.com/FJVWUCJ.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "24시간",
+              "description": "아름다운 일몰을 볼 수 있는 포구"
+            }
+          },
+          {
+            "id": "7_L_003",
+            "name": "천지연폭포",
+            "coordinates": {},
+            "address": "제주 서귀포시 천지동 666-2",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/gwr4OL3.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "제주도를 대표하는 3대 폭포 중 하나입니다."
+            }
+          },
+          {
+            "id": "7_L_004",
+            "name": "두머니골공원",
+            "coordinates": {},
+            "address": "제주 서귀포시 법환동 1534",
+            "vimeoId": "1094240419",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/Ej63QYK.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "해안 경치를 감상하며 쉬어갈 수 있는 공원입니다."
+            }
+          },
+          {
+            "id": "7_L_005",
+            "name": "삼매봉",
+            "coordinates": {},
+            "address": "제주 서귀포시 서홍동 820-2",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/utr0R9i.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "서귀포 시내와 바다를 한눈에 조망할 수 있는 오름입니다."
+            }
+          },
+          {
+            "id": "7_L_006",
+            "name": "벙커하우스풍경",
+            "coordinates": {},
+            "address": "제주특별자치도 서귀포시 막숙포로41번길 66",
+            "vimeoId": "1094242683",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/JecU8p3.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "독특한 건축물과 아름다운 풍경이 어우러진 장소입니다."
+            }
+          }
+        ],
+        "restaurants": [
+          {
+            "id": "7_R_001",
+            "name": "구럼비파스타",
+            "coordinates": { "lat": 33.232222, "lng": 126.511944 },
+            "address": "제주 서귀포시 법환로 15 1층",
+            "vimeoId": "777777777",
+            "vimeoIds": ["777777777", "888888888", "999999999"],
+            "images": [
+              "https://i.imgur.com/z7egz7Q.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "11:00-21:00",
+              "tel": "064-738-0500",
+              "menu": {
+                "봉골레파스타": "15,000원",
+                "크림파스타": "16,000원",
+                "피자": "18,000원"
+              },
+              "description": "수제 파스타와 피자가 맛있는 이탈리안 레스토랑"
+            }
+          },
+          {
+            "id": "7_R_002",
+            "name": "다미안빵집",
+            "coordinates": {},
+            "address": "제주 서귀포시 이어도로 905",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/7tF65Q0.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "다양하고 맛있는 빵을 판매하는 동네 빵집입니다."
+            }
+          },
+          {
+            "id": "7_R_003",
+            "name": "영육일삼",
+            "coordinates": {},
+            "address": "제주 서귀포시 강정동 2637-1",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/KlQLxqS.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "신선한 고기를 맛볼 수 있는 식당입니다."
+            }
+          },
+          {
+            "id": "7_R_004",
+            "name": "두가시부엌",
+            "coordinates": {},
+            "address": "제주특별자치도 서귀포시 이어도로 679",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/ZBxSueD.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "정갈한 한식을 제공하는 식당입니다."
+            }
+          },
+          {
+            "id": "7_R_005",
+            "name": "육회지존 서귀포점",
+            "coordinates": {},
+            "address": "제주 서귀포시 명동로 15",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/DIzDUQE.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "신선한 육회를 전문으로 하는 식당입니다."
+            }
+          },
+          {
+            "id": "7_R_006",
+            "name": "벙커하우스카페",
+            "coordinates": {},
+            "address": "제주특별자치도 서귀포시 막숙포로41번길 66",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/JecU8p3.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "벙커하우스 풍경과 함께 커피를 즐길 수 있는 카페입니다."
+            }
+          }
+        ]
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+    "1": {
+      "courseNum": "1",
+      "courseName": "시흥-광치기 올레",
+      "distance": "15.1km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "성산일출봉과 우도를 조망하며 걷는 해안 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "1_SE_001",
+            "name": "시흥리정류장",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4772, "lng": 126.8959 },
+            "address": "서귀포시 성산읍 시흥상동로 53번길 88-46",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "1코스 시작점" }
+          },
+          {
+            "id": "1_SE_002",
+            "name": "목화휴게소",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.4819, "lng": 126.9017 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "1_SE_003",
+            "name": "광치기해변",
+            "type": "종점",
+            "coordinates": { "lat": 33.4519, "lng": 126.9240 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "1코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "1-1A": {
+      "courseNum": "1-1A",
+      "courseName": "우도 천진항",
+      "distance": "13.2km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "우도를 일주하는 코스 (천진항 시작)",
+      "spots": {
+        "start_end": [
+          {
+            "id": "1-1A_SE_001",
+            "name": "우도 천진항",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4925, "lng": 126.9513 },
+            "address": "제주시 우도면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "1-1A코스 시작점" }
+          },
+          {
+            "id": "1-1A_SE_002",
+            "name": "하고수동 해수욕장(범선국수 앞)",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5144, "lng": 126.9583 },
+            "address": "제주시 우도면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "1-1A_SE_003",
+            "name": "우도 천진항",
+            "type": "종점",
+            "coordinates": { "lat": 33.4925, "lng": 126.9513 },
+            "address": "제주시 우도면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "시작점과 동일" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "1-1B": {
+      "courseNum": "1-1B",
+      "courseName": "우도 하우목동항",
+      "distance": "13.2km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "우도를 일주하는 코스 (하우목동항 시작)",
+      "spots": {
+        "start_end": [
+          {
+            "id": "1-1B_SE_001",
+            "name": "우도 하우목동항",
+            "type": "시작점",
+            "coordinates": { "lat": 33.5095, "lng": 126.9423 },
+            "address": "제주시 우도면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "1-1B코스 시작점" }
+          },
+          {
+            "id": "1-1B_SE_002",
+            "name": "하고수동 해수욕장(범선국수 앞)",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5144, "lng": 126.9583 },
+            "address": "제주시 우도면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "1-1B_SE_003",
+            "name": "우도 하우목동항",
+            "type": "종점",
+            "coordinates": { "lat": 33.5095, "lng": 126.9423 },
+            "address": "제주시 우도면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "시작점과 동일" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "2": {
+      "courseNum": "2",
+      "courseName": "광치기해변-온평올레",
+      "distance": "15.6km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "오름과 해안을 따라 걷는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "2_SE_001",
+            "name": "광치기해변",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4520, "lng": 126.9242 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "2코스 시작점" }
+          },
+          {
+            "id": "2_SE_002",
+            "name": "대수산봉 정상",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.4396, "lng": 126.9014 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "2_SE_003",
+            "name": "온평포구",
+            "type": "종점",
+            "coordinates": { "lat": 33.4051, "lng": 126.9040 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "2코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "3-A": {
+      "courseNum": "3-A",
+      "courseName": "온평-표선(A)올레",
+      "distance": "20.9km",
+      "difficulty": "상",
+      "time": "6~7시간",
+      "description": "제주 동쪽 해안의 아름다운 풍경을 감상하는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "3-A_SE_001",
+            "name": "온평포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4051, "lng": 126.9040 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "3-A코스 시작점" }
+          },
+          {
+            "id": "3-A_SE_002",
+            "name": "김영갑 갤러리 두모악",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.3720, "lng": 126.8542 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "3-A_SE_003",
+            "name": "제주민속촌주차장입구",
+            "type": "종점",
+            "coordinates": { "lat": 33.3251, "lng": 126.8429 },
+            "address": "서귀포시 표선면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "3-A코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "3-B": {
+      "courseNum": "3-B",
+      "courseName": "온평-표선(B)올레",
+      "distance": "14.6km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "3코스의 대체 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "3-B_SE_001",
+            "name": "온평포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4051, "lng": 126.9040 },
+            "address": "서귀포시 표선면 민속해안로 587",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "3-B코스 시작점" }
+          },
+          {
+            "id": "3-B_SE_002",
+            "name": "성산봄죽칼국수 신산리",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.3766, "lng": 126.8768 },
+            "address": "서귀포시 성산읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "3-B_SE_003",
+            "name": "제주민속촌주차장입구",
+            "type": "종점",
+            "coordinates": { "lat": 33.3251, "lng": 126.8429 },
+            "address": "서귀포시 표선면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "3-B코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "4": {
+      "courseNum": "4",
+      "courseName": "표선-남원 올레",
+      "distance": "19km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "해안과 오름을 넘나드는 다채로운 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "4_SE_001",
+            "name": "제주민속촌주차장 입구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.3251, "lng": 126.8429 },
+            "address": "서귀포시 남원읍 남태해안로 140",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "4코스 시작점" }
+          },
+          {
+            "id": "4_SE_002",
+            "name": "알토산고팡",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.3088, "lng": 126.7793 },
+            "address": "서귀포시 남원읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "4_SE_003",
+            "name": "남원포구, 남원용암해수풀장",
+            "type": "종점",
+            "coordinates": { "lat": 33.2779, "lng": 126.7197 },
+            "address": "서귀포시 남원읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "4코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "5": {
+      "courseNum": "5",
+      "courseName": "남원-쇠소깍 올레",
+      "distance": "13.4km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "편안한 해안길과 마을길을 걷는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "5_SE_001",
+            "name": "남원포구, 남원용암해수풀장",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2779, "lng": 126.7197 },
+            "address": "서귀포시 남원읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "5코스 시작점" }
+          },
+          {
+            "id": "5_SE_002",
+            "name": "위미동백나무 군락지",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2731, "lng": 126.6744 },
+            "address": "서귀포시 남원읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "5_SE_003",
+            "name": "쇠소깍다리",
+            "type": "종점",
+            "coordinates": { "lat": 33.2582, "lng": 126.6235 },
+            "address": "서귀포시 하효동",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "5코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "6": {
+      "courseNum": "6",
+      "courseName": "쇠소깍-제주올레여행자센터 올레",
+      "distance": "11km",
+      "difficulty": "하",
+      "time": "3~4시간",
+      "description": "서귀포 시내를 통과하는 도심형 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "6_SE_001",
+            "name": "쇠소깍다리",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2582, "lng": 126.6235 },
+            "address": "서귀포시 중정로 22",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "6코스 시작점" }
+          },
+          {
+            "id": "6_SE_002",
+            "name": "소라의성",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2451, "lng": 126.5770 },
+            "address": "서귀포시",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "6_SE_003",
+            "name": "제주올레여행자센터",
+            "type": "종점",
+            "coordinates": { "lat": 33.2475, "lng": 126.5588 },
+            "address": "서귀포시 중정로 22",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "6코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "7-1": {
+      "courseNum": "7-1",
+      "courseName": "서귀포버스터미널-제주올레여행자센터 올레",
+      "distance": "15.7km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "고근산을 거쳐 가는 대체 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "7-1_SE_001",
+            "name": "서귀포버스터미널",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2491, "lng": 126.5082 },
+            "address": "서귀포시",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "7-1코스 시작점" }
+          },
+          {
+            "id": "7-1_SE_002",
+            "name": "고근산 정상",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2670, "lng": 126.5129 },
+            "address": "서귀포시",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "7-1_SE_003",
+            "name": "제주올레여행자센터",
+            "type": "종점",
+            "coordinates": { "lat": 33.2475, "lng": 126.5588 },
+            "address": "서귀포시 중정로 22",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "7-1코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "8": {
+      "courseNum": "8",
+      "courseName": "월평-대평 올레",
+      "distance": "19.6km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "중문관광단지와 주상절리를 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "8_SE_001",
+            "name": "월평아왜낭목",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2434, "lng": 126.4585 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "8코스 시작점" }
+          },
+          {
+            "id": "8_SE_002",
+            "name": "베릿내공원 정자",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2463, "lng": 126.4181 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "8_SE_003",
+            "name": "대평포구",
+            "type": "종점",
+            "coordinates": { "lat": 33.2371, "lng": 126.3613 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "8코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "9": {
+      "courseNum": "9",
+      "courseName": "대평-화순 올레",
+      "distance": "11.8km",
+      "difficulty": "상",
+      "time": "3~4시간",
+      "description": "안덕계곡과 산방산을 조망하는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "9_SE_001",
+            "name": "대평포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2371, "lng": 126.3613 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "9코스 시작점" }
+          },
+          {
+            "id": "9_SE_002",
+            "name": "군산오름 정상부",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2531, "lng": 126.3698 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "9_SE_003",
+            "name": "화순금모래해수욕장",
+            "type": "종점",
+            "coordinates": { "lat": 33.2399, "lng": 126.3352 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "9코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "10": {
+      "courseNum": "10",
+      "courseName": "화순-모슬포 올레",
+      "distance": "15.6km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "송악산과 가파도를 조망하는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "10_SE_001",
+            "name": "화순금모래해수욕장",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2399, "lng": 126.3352 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "10코스 시작점" }
+          },
+          {
+            "id": "10_SE_002",
+            "name": "섯알오름 주차장",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2053, "lng": 126.2775 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "10_SE_003",
+            "name": "하모체육공원",
+            "type": "종점",
+            "coordinates": { "lat": 33.2190, "lng": 126.2528 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "10코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "10-1": {
+      "courseNum": "10-1",
+      "courseName": "가파도-올레",
+      "distance": "4.2km",
+      "difficulty": "하",
+      "time": "1~2시간",
+      "description": "가파도를 일주하는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "10-1_SE_001",
+            "name": "상동포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.1745, "lng": 126.2709 },
+            "address": "서귀포시 대정읍 최남단해안로29번길 14",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "10-1코스 시작점" }
+          },
+          {
+            "id": "10-1_SE_002",
+            "name": "가파치안센터",
+            "type": "종점",
+            "coordinates": { "lat": 33.1671, "lng": 126.2742 },
+            "address": "서귀포시 대정읍 가파리",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "10-1코스 종점 (중간간세 없음)" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "11": {
+      "courseNum": "11",
+      "courseName": "모슬포-무릉 올레",
+      "distance": "17.3km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "신창풍차해안과 수월봉을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "11_SE_001",
+            "name": "하모체육공원",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2190, "lng": 126.2528 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "11코스 시작점" }
+          },
+          {
+            "id": "11_SE_002",
+            "name": "모슬봉 정상",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2392, "lng": 126.2608 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "11_SE_003",
+            "name": "무릉외갓집",
+            "type": "종점",
+            "coordinates": { "lat": 33.2731, "lng": 126.2365 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "11코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "12": {
+      "courseNum": "12",
+      "courseName": "무릉-용수 올레",
+      "distance": "17.5km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "차귀도와 절부암을 조망하는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "12_SE_001",
+            "name": "무릉외갓집",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2731, "lng": 126.2365 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "12코스 시작점" }
+          },
+          {
+            "id": "12_SE_002",
+            "name": "산경도예",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2793, "lng": 126.1915 },
+            "address": "서귀포시 대정읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "12_SE_003",
+            "name": "용수포구",
+            "type": "종점",
+            "coordinates": { "lat": 33.3235, "lng": 126.1668 },
+            "address": "제주시 한경면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "12코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "13": {
+      "courseNum": "13",
+      "courseName": "용수-저지 올레",
+      "distance": "16.2km",
+      "difficulty": "중",
+      "time": "4~5시간",
+      "description": "한림공원과 협재해변을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "13_SE_001",
+            "name": "용수포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.3235, "lng": 126.1668 },
+            "address": "제주시 한경면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "13코스 시작점" }
+          },
+          {
+            "id": "13_SE_002",
+            "name": "낙천리사무소(낙천농산물판매장)",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.3265, "lng": 126.2269 },
+            "address": "제주시 한경면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "13_SE_003",
+            "name": "저지예술정보화마을",
+            "type": "종점",
+            "coordinates": { "lat": 33.3337, "lng": 126.2562 },
+            "address": "제주시 한경면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "13코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "14": {
+      "courseNum": "14",
+      "courseName": "저지-한림 올레",
+      "distance": "19.1km",
+      "difficulty": "중",
+      "time": "6~7시간",
+      "description": "오설록과 저지오름을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "14_SE_001",
+            "name": "저지예술정보화마을",
+            "type": "시작점",
+            "coordinates": { "lat": 33.3337, "lng": 126.2562 },
+            "address": "제주시 한경면 중산간서로 3687",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "14코스 시작점" }
+          },
+          {
+            "id": "14_SE_002",
+            "name": "월령선인장자생지 입구",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.3764, "lng": 126.2139 },
+            "address": "제주시 한림읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "14_SE_003",
+            "name": "한림항 도선 대합실",
+            "type": "종점",
+            "coordinates": { "lat": 33.4191, "lng": 126.2624 },
+            "address": "제주시 한림읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "14코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "14-1": {
+      "courseNum": "14-1",
+      "courseName": "저지-서광 올레",
+      "distance": "9.3km",
+      "difficulty": "하",
+      "time": "3~4시간",
+      "description": "14코스 우회 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "14-1_SE_001",
+            "name": "저지예술정보화마을",
+            "type": "시작점",
+            "coordinates": { "lat": 33.3337, "lng": 126.2562 },
+            "address": "제주시 한림읍 한림해안로 196",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "14-1코스 시작점" }
+          },
+          {
+            "id": "14-1_SE_002",
+            "name": "문도지오름 출구",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.3253, "lng": 126.2969 },
+            "address": "제주시 한경면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "14-1_SE_003",
+            "name": "오설록녹차밭",
+            "type": "종점",
+            "coordinates": { "lat": 33.3069, "lng": 126.2878 },
+            "address": "서귀포시 안덕면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "14-1코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "15-A": {
+      "courseNum": "15-A",
+      "courseName": "한림-고내(A)올레",
+      "distance": "16.5km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "애월해안도로를 따라 걷는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "15-A_SE_001",
+            "name": "한림항 도선 대합실",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4191, "lng": 126.2624 },
+            "address": "제주시 한림읍 대림리 2019-17",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "15-A코스 시작점" }
+          },
+          {
+            "id": "15-A_SE_002",
+            "name": "납읍리 난대림 화장실",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.4353, "lng": 126.3299 },
+            "address": "제주시 애월읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "15-A_SE_003",
+            "name": "고내포구",
+            "type": "종점",
+            "coordinates": { "lat": 33.4671, "lng": 126.3388 },
+            "address": "제주시 애월읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "15-A코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "15-B": {
+      "courseNum": "15-B",
+      "courseName": "한림-고내(B)올레",
+      "distance": "13km",
+      "difficulty": "하",
+      "time": "4~5시간",
+      "description": "15코스 해안 대체 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "15-B_SE_001",
+            "name": "한림항 도선 대합실",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4191, "lng": 126.2624 },
+            "address": "제주시 애월읍 고내리 1103-1",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "15-B코스 시작점" }
+          },
+          {
+            "id": "15-B_SE_002",
+            "name": "금성천 옆",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.4469, "lng": 126.2992 },
+            "address": "제주시 한림읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "15-B_SE_003",
+            "name": "고내포구",
+            "type": "종점",
+            "coordinates": { "lat": 33.4671, "lng": 126.3388 },
+            "address": "제주시 애월읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "15-B코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "16": {
+      "courseNum": "16",
+      "courseName": "고내-광령올레",
+      "distance": "15.8km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "항파두리항몽유적지를 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "16_SE_001",
+            "name": "고내포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4671, "lng": 126.3388 },
+            "address": "제주시 용담2동 2002",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "16코스 시작점" }
+          },
+          {
+            "id": "16_SE_002",
+            "name": "항파두리코스모스 정자",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.4537, "lng": 126.4110 },
+            "address": "제주시 애월읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "16_SE_003",
+            "name": "호끌락키즈 북카페",
+            "type": "종점",
+            "coordinates": { "lat": 33.4595, "lng": 126.4334 },
+            "address": "제주시 애월읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "16코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "17": {
+      "courseNum": "17",
+      "courseName": "광령-김만덕기념관 올레",
+      "distance": "18.1km",
+      "difficulty": "중",
+      "time": "6~7시간",
+      "description": "이호테우해변과 도두봉을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "17_SE_001",
+            "name": "호끌락키즈 북카페",
+            "type": "시작점",
+            "coordinates": { "lat": 33.4595, "lng": 126.4334 },
+            "address": "제주시 산지로 7, 1층",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "17코스 시작점" }
+          },
+          {
+            "id": "17_SE_002",
+            "name": "어영소공원",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5178, "lng": 126.4871 },
+            "address": "제주시 애월읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "17_SE_003",
+            "name": "김만덕기념관",
+            "type": "종점",
+            "coordinates": { "lat": 33.5157, "lng": 126.5302 },
+            "address": "제주시 산지로 7",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "17코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "18": {
+      "courseNum": "18",
+      "courseName": "김만덕기념관-조천 올레",
+      "distance": "19.7km",
+      "difficulty": "중",
+      "time": "6~7시간",
+      "description": "제주시내와 사라봉을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "18_SE_001",
+            "name": "김만덕기념관",
+            "type": "시작점",
+            "coordinates": { "lat": 33.5157, "lng": 126.5302 },
+            "address": "제주시 추자면 추자로 26",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "18코스 시작점" }
+          },
+          {
+            "id": "18_SE_002",
+            "name": "삼양해수욕장 정자",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5272, "lng": 126.5877 },
+            "address": "제주시 삼양동",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "18_SE_003",
+            "name": "조천만세동산",
+            "type": "종점",
+            "coordinates": { "lat": 33.5403, "lng": 126.6399 },
+            "address": "제주시 조천읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "18코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "18-1": {
+      "courseNum": "18-1",
+      "courseName": "상추자-올레",
+      "distance": "11.4km",
+      "difficulty": "상",
+      "time": "4~5시간",
+      "description": "추자도 상추자를 도는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "18-1_SE_001",
+            "name": "추자면사무소",
+            "type": "시작점",
+            "coordinates": { "lat": 33.9636, "lng": 126.2961 },
+            "address": "제주시 추자면 대서리 19-1",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "18-1코스 시작점" }
+          },
+          {
+            "id": "18-1_SE_002",
+            "name": "돈대산 정상",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.9481, "lng": 126.3230 },
+            "address": "제주시 추자면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "18-1_SE_003",
+            "name": "신양항",
+            "type": "종점",
+            "coordinates": { "lat": 33.9447, "lng": 126.3296 },
+            "address": "제주시 추자면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "18-1코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "18-2": {
+      "courseNum": "18-2",
+      "courseName": "하추자-올레",
+      "distance": "9.7km",
+      "difficulty": "상",
+      "time": "3~4시간",
+      "description": "추자도 하추자를 도는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "18-2_SE_001",
+            "name": "신양항",
+            "type": "시작점",
+            "coordinates": { "lat": 33.9447, "lng": 126.3296 },
+            "address": "제주시 조천읍 조천북6길 44",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "18-2코스 시작점" }
+          },
+          {
+            "id": "18-2_SE_002",
+            "name": "대왕산 황금길",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.9370, "lng": 126.3191 },
+            "address": "제주시 추자면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "18-2_SE_003",
+            "name": "추자면사무소",
+            "type": "종점",
+            "coordinates": { "lat": 33.9636, "lng": 126.2961 },
+            "address": "제주시 추자면",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "18-2코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "19": {
+      "courseNum": "19",
+      "courseName": "조천-김녕 올레",
+      "distance": "19.4km",
+      "difficulty": "중",
+      "time": "6~7시간",
+      "description": "함덕해변과 서우봉을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "19_SE_001",
+            "name": "조천만세동산",
+            "type": "시작점",
+            "coordinates": { "lat": 33.5403, "lng": 126.6399 },
+            "address": "제주시 조천읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "19코스 시작점" }
+          },
+          {
+            "id": "19_SE_002",
+            "name": "동복리마을운동장",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5417, "lng": 126.7142 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "19_SE_003",
+            "name": "김녕서포구",
+            "type": "종점",
+            "coordinates": { "lat": 33.5577, "lng": 126.7448 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "19코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "20": {
+      "courseNum": "20",
+      "courseName": "김녕-하도 올레",
+      "distance": "17.6km",
+      "difficulty": "중",
+      "time": "5~6시간",
+      "description": "김녕해변과 월정리해변을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "20_SE_001",
+            "name": "김녕서포구",
+            "type": "시작점",
+            "coordinates": { "lat": 33.5577, "lng": 126.7448 },
+            "address": "제주시 구좌읍 해녀박물관길 11",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "20코스 시작점" }
+          },
+          {
+            "id": "20_SE_002",
+            "name": "행원포구 광해군기착비",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5564, "lng": 126.8076 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "20_SE_003",
+            "name": "제주해녀박물관",
+            "type": "종점",
+            "coordinates": { "lat": 33.5221, "lng": 126.8627 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "20코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    },
+    "21": {
+      "courseNum": "21",
+      "courseName": "하도-종달 올레",
+      "distance": "11.3km",
+      "difficulty": "하",
+      "time": "3~4시간",
+      "description": "제주해녀박물관과 세화해변을 지나는 코스",
+      "spots": {
+        "start_end": [
+          {
+            "id": "21_SE_001",
+            "name": "제주해녀박물관",
+            "type": "시작점",
+            "coordinates": { "lat": 33.5221, "lng": 126.8627 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "21코스 시작점" }
+          },
+          {
+            "id": "21_SE_002",
+            "name": "석다원",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.5272, "lng": 126.8893 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "중간 휴식 지점" }
+          },
+          {
+            "id": "21_SE_003",
+            "name": "종달바당",
+            "type": "종점",
+            "coordinates": { "lat": 33.4888, "lng": 126.9052 },
+            "address": "제주시 구좌읍",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [],
+            "info": { "description": "21코스 종점" }
+          }
+        ],
+        "landmarks": [],
+        "restaurants": []
+      }
+    }
+  }
+}
