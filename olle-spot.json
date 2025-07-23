@@ -34,7 +34,7 @@
             "id": "7_SE_002",
             "name": "두머니골 공원",
             "type": "중간간세",
-            "coordinates": { "lat": 33.2310, "lng": 126.5072 },
+            "coordinates": { "lat": 33.2311, "lng": 126.5065 },
             "address": "서귀포시 법환동 1534",
             "vimeoId": "456789012",
             "vimeoIds": ["456789012", "567890123", "678901234"],
@@ -42,6 +42,11 @@
               "https://i.imgur.com/Ej63QYK.jpeg",
               "",
               ""
+
+
+
+
+              
             ],
             "info": {
               "description": "중간 휴식 지점"
