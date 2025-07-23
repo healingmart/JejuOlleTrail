@@ -104,7 +104,8 @@
           {
             "id": "7_L_003",
             "name": "천지연폭포",
-            "coordinates": {},
+            "type": "",
+            "coordinates": { "lat": 33.246944, "lng": 126.554417 },
             "address": "제주 서귀포시 천지동 666-2",
             "vimeoId": "",
             "vimeoIds": [],
@@ -120,7 +121,8 @@
           {
             "id": "7_L_004",
             "name": "두머니골공원",
-            "coordinates": {},
+            "type": "",
+            "coordinates": { "lat": 33.2310, "lng": 126.5072 },
             "address": "제주 서귀포시 법환동 1534",
             "vimeoId": "1094240419",
             "vimeoIds": [],
@@ -136,7 +138,8 @@
           {
             "id": "7_L_005",
             "name": "삼매봉",
-            "coordinates": {},
+            "type": "",
+            "coordinates": { "lat": 33.24401, "lng": 126.54696 },
             "address": "제주 서귀포시 서홍동 820-2",
             "vimeoId": "",
             "vimeoIds": [],
@@ -152,6 +155,7 @@
           {
             "id": "7_L_006",
             "name": "벙커하우스풍경",
+            "type": "",
             "coordinates": {},
             "address": "제주특별자치도 서귀포시 막숙포로41번길 66",
             "vimeoId": "1094242683",
@@ -170,6 +174,7 @@
           {
             "id": "7_R_001",
             "name": "구럼비파스타",
+            "type": "",
             "coordinates": { "lat": 33.232222, "lng": 126.511944 },
             "address": "제주 서귀포시 법환로 15 1층",
             "vimeoId": "777777777",
@@ -193,6 +198,7 @@
           {
             "id": "7_R_002",
             "name": "다미안빵집",
+            "type": "",
             "coordinates": {},
             "address": "제주 서귀포시 이어도로 905",
             "vimeoId": "",
@@ -209,6 +215,7 @@
           {
             "id": "7_R_003",
             "name": "영육일삼",
+            "type": "",
             "coordinates": {},
             "address": "제주 서귀포시 강정동 2637-1",
             "vimeoId": "",
@@ -225,6 +232,7 @@
           {
             "id": "7_R_004",
             "name": "두가시부엌",
+            "type": "",
             "coordinates": {},
             "address": "제주특별자치도 서귀포시 이어도로 679",
             "vimeoId": "",
@@ -241,6 +249,7 @@
           {
             "id": "7_R_005",
             "name": "육회지존 서귀포점",
+            "type": "",
             "coordinates": {},
             "address": "제주 서귀포시 명동로 15",
             "vimeoId": "",
@@ -257,6 +266,7 @@
           {
             "id": "7_R_006",
             "name": "벙커하우스카페",
+            "type": "",
             "coordinates": {},
             "address": "제주특별자치도 서귀포시 막숙포로41번길 66",
             "vimeoId": "",
@@ -273,8 +283,6 @@
         ]
       }
     },
-
-
 
 
 
