@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-23",
+  "lastUpdated": "2025-07-21",
   "version": "2.1",
   "courses": {
     "7": {
@@ -8,16 +8,155 @@
       "distance": "12.9km",
       "difficulty": "중",
       "time": "3~4시간",
-      "description": "서귀포 서쪽 해안 절경과 도심의 정취를 함께 즐길 수 있는 코스입니다. 외돌개와 천지연폭포, 법환포구 등 유명 관광지를 잇는 길로, 초보자도 부담 없이 걸을 수 있는 도심형 해안 산책로입니다.",
+      "description": "서귀포 서쪽 해안의 절경을 감상하는 코스",
       "spots": {
-        "start_end": [...],
+        "start_end": [
+          {
+            "id": "7_SE_001",
+            "name": "제주올레여행자센터",
+            "type": "시작점",
+            "coordinates": { "lat": 33.2475, "lng": 126.5588 },
+            "address": "서귀포시 중정로 22",
+            "vimeoId": "123456789",
+            "vimeoIds": ["123456789", "234567890", "345678901"],
+            "images": [
+              "https://i.imgur.com/wsZdSbZ.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "09:00-18:00",
+              "tel": "064-762-2190",
+              "description": "7코스 시작점. 올레 패스포트와 기념품을 구매할 수 있습니다."
+            }
+          },
+          {
+            "id": "7_SE_002",
+            "name": "두머니골 공원",
+            "type": "중간간세",
+            "coordinates": { "lat": 33.2310, "lng": 126.5072 },
+            "address": "서귀포시 법환동 1534",
+            "vimeoId": "456789012",
+            "vimeoIds": ["456789012", "567890123", "678901234"],
+            "images": [
+              "https://i.imgur.com/Ej63QYK.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "중간 휴식 지점"
+            }
+          },
+          {
+            "id": "7_SE_003",
+            "name": "서귀포버스터미널",
+            "type": "종점",
+            "coordinates": { "lat": 33.2491, "lng": 126.5082 },
+            "address": "제주 서귀포시 법환동 843",
+            "vimeoId": "789012345",
+            "vimeoIds": ["789012345", "890123456", "901234567"],
+            "images": [
+              "https://i.imgur.com/wsZdSbZ.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "7코스 종점"
+            }
+          }
+        ],
         "landmarks": [
-          ...
+          {
+            "id": "7_L_001",
+            "name": "외돌개",
+            "coordinates": { "lat": 33.238521, "lng": 126.543245 },
+            "address": "제주 서귀포시 서홍동 791",
+            "vimeoId": "1094240969",
+            "vimeoIds": ["111111111", "222222222", "333333333"],
+            "images": [
+              "https://i.imgur.com/kW0O1jY.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "24시간",
+              "parking": "무료",
+              "description": "높이 20m의 기암괴석. 드라마 대장금 촬영지로 유명합니다."
+            }
+          },
+          {
+            "id": "7_L_002",
+            "name": "법환포구",
+            "coordinates": { "lat": 33.232778, "lng": 126.512222 },
+            "address": "제주 서귀포시 막숙포로 44",
+            "vimeoId": "444444444",
+            "vimeoIds": ["444444444", "555555555", "666666666"],
+            "images": [
+              "https://i.imgur.com/FJVWUCJ.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "24시간",
+              "description": "아름다운 일몰을 볼 수 있는 포구"
+            }
+          },
+          {
+            "id": "7_L_003",
+            "name": "천지연폭포",
+            "type": "",
+            "coordinates": { "lat": 33.246944, "lng": 126.554417 },
+            "address": "제주 서귀포시 천지동 666-2",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/gwr4OL3.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "제주도를 대표하는 3대 폭포 중 하나입니다."
+            }
+          },
+          {
+            "id": "7_L_004",
+            "name": "두머니골공원",
+            "type": "",
+            "coordinates": { "lat": 33.2310, "lng": 126.5072 },
+            "address": "제주 서귀포시 법환동 1534",
+            "vimeoId": "1094240419",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/Ej63QYK.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "해안 경치를 감상하며 쉬어갈 수 있는 공원입니다."
+            }
+          },
+          {
+            "id": "7_L_005",
+            "name": "삼매봉",
+            "type": "",
+            "coordinates": { "lat": 33.24401, "lng": 126.54696 },
+            "address": "제주 서귀포시 서홍동 820-2",
+            "vimeoId": "",
+            "vimeoIds": [],
+            "images": [
+              "https://i.imgur.com/utr0R9i.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "description": "서귀포 시내와 바다를 한눈에 조망할 수 있는 오름입니다."
+            }
+          },
           {
             "id": "7_L_006",
             "name": "벙커하우스풍경",
             "type": "",
-            "coordinates": { "lat": 33.2318, "lng": 126.5115 },
+            "coordinates": { "lat": 33.2298, "lng": 126.5065 },
             "address": "제주특별자치도 서귀포시 막숙포로41번길 66",
             "vimeoId": "1094242683",
             "vimeoIds": [],
@@ -27,16 +166,40 @@
               ""
             ],
             "info": {
-              "description": "산책 중 잠시 들러 독특한 건축미와 남쪽 해안 풍경을 감상할 수 있는 감성 포토 스팟입니다. 2025년 SNS 인기 촬영지 중 하나로 떠오르고 있습니다."
+              "description": "독특한 건축물과 아름다운 풍경이 어우러진 장소입니다."
             }
           }
         ],
         "restaurants": [
           {
+            "id": "7_R_001",
+            "name": "구럼비파스타",
+            "type": "",
+            "coordinates": { "lat": 33.232222, "lng": 126.511944 },
+            "address": "제주 서귀포시 법환로 15 1층",
+            "vimeoId": "777777777",
+            "vimeoIds": ["777777777", "888888888", "999999999"],
+            "images": [
+              "https://i.imgur.com/z7egz7Q.jpeg",
+              "",
+              ""
+            ],
+            "info": {
+              "hours": "11:00-21:00",
+              "tel": "064-738-0500",
+              "menu": {
+                "봉골레파스타": "15,000원",
+                "크림파스타": "16,000원",
+                "피자": "18,000원"
+              },
+              "description": "수제 파스타와 피자가 맛있는 이탈리안 레스토랑"
+            }
+          },
+          {
             "id": "7_R_002",
             "name": "다미안빵집",
             "type": "",
-            "coordinates": { "lat": 33.2460, "lng": 126.5282 },
+            "coordinates": { "lat": 33.2485, "lng": 126.5584 },
             "address": "제주 서귀포시 이어도로 905",
             "vimeoId": "",
             "vimeoIds": [],
@@ -46,14 +209,14 @@
               ""
             ],
             "info": {
-              "description": "현지인들에게 꾸준히 사랑받는 수제 빵집으로, 2025년 기준 대표 인기 메뉴는 녹차앙버터와 감귤소금빵입니다."
+              "description": "다양하고 맛있는 빵을 판매하는 동네 빵집입니다."
             }
           },
           {
             "id": "7_R_003",
             "name": "영육일삼",
             "type": "",
-            "coordinates": { "lat": 33.2354, "lng": 126.4995 },
+            "coordinates": { "lat": 33.2361, "lng": 126.5294 },
             "address": "제주 서귀포시 강정동 2637-1",
             "vimeoId": "",
             "vimeoIds": [],
@@ -63,14 +226,14 @@
               ""
             ],
             "info": {
-              "description": "한우·돼지고기 구이 전문점으로, 2025년 기준 지역 주민 추천 맛집입니다. 실내 인테리어가 깔끔하고 가족 단위 방문객에게 인기가 많습니다."
+              "description": "신선한 고기를 맛볼 수 있는 식당입니다."
             }
           },
           {
             "id": "7_R_004",
             "name": "두가시부엌",
             "type": "",
-            "coordinates": { "lat": 33.2421, "lng": 126.5327 },
+            "coordinates": { "lat": 33.2398, "lng": 126.5421 },
             "address": "제주특별자치도 서귀포시 이어도로 679",
             "vimeoId": "",
             "vimeoIds": [],
@@ -80,14 +243,14 @@
               ""
             ],
             "info": {
-              "description": "정갈한 제주식 가정식을 제공하는 공간으로, 2025년 현재 여행객의 재방문율이 높은 한식당입니다."
+              "description": "정갈한 한식을 제공하는 식당입니다."
             }
           },
           {
             "id": "7_R_005",
             "name": "육회지존 서귀포점",
             "type": "",
-            "coordinates": { "lat": 33.2545, "lng": 126.5621 },
+            "coordinates": { "lat": 33.2493, "lng": 126.5595 },
             "address": "제주 서귀포시 명동로 15",
             "vimeoId": "",
             "vimeoIds": [],
@@ -97,14 +260,14 @@
               ""
             ],
             "info": {
-              "description": "육회 덮밥과 육사시미가 인기인 전문 고기 식당으로, 2025년 기준 식도락 유튜버들 사이에서 자주 언급되고 있습니다."
+              "description": "신선한 육회를 전문으로 하는 식당입니다."
             }
           },
           {
             "id": "7_R_006",
             "name": "벙커하우스카페",
             "type": "",
-            "coordinates": { "lat": 33.2318, "lng": 126.5115 },
+            "coordinates": { "lat": 33.2298, "lng": 126.5065 },
             "address": "제주특별자치도 서귀포시 막숙포로41번길 66",
             "vimeoId": "",
             "vimeoIds": [],
@@ -114,7 +277,7 @@
               ""
             ],
             "info": {
-              "description": "독특한 외관의 벙커하우스 내부에 위치한 카페로, 바다 전망을 감상하며 커피를 즐기기 좋습니다. 2025년 인생샷 명소로 유명세를 얻고 있습니다."
+              "description": "벙커하우스 풍경과 함께 커피를 즐길 수 있는 카페입니다."
             }
           }
         ]
